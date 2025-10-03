@@ -1,8 +1,8 @@
-⭐ Store Rating Web Application
+###⭐ Store Rating Web Application
 
 A full-stack web application where users can register, log in, and submit ratings (1–5) for stores on the platform. The system supports three roles: System Administrator, Normal User, and Store Owner, each with role-based functionalities.
 
-🚀 Tech Stack
+###🚀 Tech Stack
 
 Frontend: React.js (Vite) + TailwindCSS
 
