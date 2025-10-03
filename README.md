@@ -77,3 +77,17 @@ A full-stack web application where users can register, log in, and submit rating
 ```bash
 git clone https://github.com/your-username/store-rating-app.git
 cd store-rating-app
+```
+### 2️⃣ Backend Setup (Express + MySQL)
+```bash
+cd backend
+npm install
+npm start
+```
+### 3️⃣ Frontend Setup (React + Vite + TailwindCSS)
+```bash
+cd frontend
+npm install
+npm run dev
+App will be available at: http://localhost:5173/
+```
